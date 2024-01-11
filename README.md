@@ -5,20 +5,19 @@
   <img src="https://media.giphy.com/media/JoDhV5WdJjJWVf3KLS/giphy.gif" width="300px" height="200px">
 </div>
 
-
-<div align="Center" style="display:inline_block">
+<div align="center" style="display:inline_block">
   <h1>About</h1>
   <p>🇧🇷 Computer Engineering undergraduate</p>
   <p>📚 Currently learning: ReactJS and NodeJS</p>
-<div>
-  <div href="mailto:gabrielbarbosa1315@gmail.com">
-    <img style="display: inline-block" align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" target="_blank" alt="Email">
-  &nbsp;&nbsp;&nbsp; <!-- Adicione vários espaços aqui para criar um espaçamento -->
-  <a href="https://www.linkedin.com/in/gabrieldnzz/" target="_blank">
-    <img style="display: inline-block" align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" target="_blank" alt="LinkedIn">
-  </a>
-</div>
-
+  <div>
+    <a href="mailto:gabrielbarbosa1315@gmail.com">
+      <img style="display: inline-block" align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" target="_blank" alt="Email">
+    </a>
+    &nbsp;&nbsp;&nbsp; <!-- Adicione vários espaços aqui para criar um espaçamento -->
+    <a href="https://www.linkedin.com/in/gabrieldnzz/" target="_blank">
+      <img style="display: inline-block" align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" target="_blank" alt="LinkedIn">
+    </a>
+  </div>
 </div>
 
 <div align="center">
@@ -39,5 +38,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDnz1&theme=yeblu&hide_border=false">
   <img width = 970 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDnz1&theme=yeblu&show_icons=true&hide_border=false&layout=compact" alt="Top Langs">
 </div>
-
-
