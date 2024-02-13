@@ -8,7 +8,7 @@
 <div align="center" style="display:inline_block">
   <h1>About</h1>
   <p>🇧🇷 Computer Engineering undergraduate</p>
-  <p>📚 Currently learning: ReactJS and NodeJS</p>
+  <p>📚 Currently learning: JS, ReactJS and NodeJS</p>
   <div>
     <a href="mailto:gabrielbarbosa1315@gmail.com">
       <img style="display: inline-block" align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" target="_blank" alt="Email">
@@ -26,7 +26,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-HTML" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-CPP" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gabriel-CPP" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-C" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gabriel-CPP" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
