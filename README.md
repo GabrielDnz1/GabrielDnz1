@@ -33,7 +33,7 @@
 <div align="center">
   <h2>GitHub Stats</h2>
 </div>
-<div>
+<div style="display: inline_block" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielDnz1&theme=yeblu&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDnz1&theme=yeblu&show_icons=true&hide_border=false&layout=compact" height="195" alt="Top Langs">
 </div>
