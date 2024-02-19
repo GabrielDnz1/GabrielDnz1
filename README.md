@@ -26,9 +26,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-HTML" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-CPP" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-C" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Gabriel-CPP" height="70" width="85" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Gabriel-JS" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
 <div align="center">
   <h2>GitHub Stats</h2>
