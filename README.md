@@ -7,7 +7,7 @@
 
 <div align="center" style="display:inline_block">
   <h1>About</h1>
-  <p>🇧🇷 Computer Engineering undergraduate</p>
+  <p>🇧🇷 Analysis and systems development undergraduate</p>
   <p>📚 Currently learning: JS, ReactJS and NodeJS</p>
   <div>
     <a href="mailto:gabrielbarbosa1315@gmail.com">
