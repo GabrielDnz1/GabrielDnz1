@@ -9,13 +9,11 @@
   <p>🇧🇷 Analysis and systems development undergraduate</p>
   <p>📚 Currently learning: JS, ReactJS and NodeJS</p>
 </div>
-
-<div align="center">
-  <h2>Tech Stack</h2>
-</div>
 <div style="display: inline_block" align="center"><br>
+  <h1>Technologies</h1>
+  <h5>Web Development</h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,react,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=react,js,css,html" />
   </a>
 </div>
 <div align="center">
