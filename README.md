@@ -1,9 +1,6 @@
 <div align="center">
   <h2>I'm Gabriel Barbosa! Welcome to my Profile!</h2>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/JoDhV5WdJjJWVf3KLS/giphy.gif" width="200px" height="120px">
-</div>
 
 <div align="center" style="display:inline_block">
   <p>🇧🇷 Analysis and systems development undergraduate</p>
